@@ -14,6 +14,8 @@ cd shashi
 php -S localhost:8000
 ```
 
+> Make sure git and php already installed else you can install using command `sudo apt install -y git php`
+
 # Our website
 
 [🔗 www.philiphacker.in](https://github.com/Philiphackerzx/shashi/archive/refs/heads/main.zip)
