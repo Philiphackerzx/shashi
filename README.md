@@ -2,6 +2,8 @@
 
 A secure, one-time view encryption and decryption web tool.
 
+![Shashi Security Logo](logo/shashi-security.png)
+
 # Public use
 
 Download the file 📥 [From Here](https://github.com/Philiphackerzx/shashi/archive/refs/heads/main.zip) and host in any webhosting.
